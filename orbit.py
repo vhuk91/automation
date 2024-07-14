@@ -36,3 +36,5 @@ p2=float(p2)
 amount_p2=driver.find_element(by="xpath", value="/html/body/div[1]/div/div[2]/main/div/div[2]/div/div/div/div[2]/div[5]/div/div/div[3]/div/div[2]/div[2]/div[1]/button/span/div/span[2]")
 amount_p2=amount_p2.text
 amount_p2=int(p2)
+
+print("fuck you")

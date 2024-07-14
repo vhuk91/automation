@@ -44,6 +44,7 @@ while True:
 
 time.sleep(7)
 driver.quit()
+print("fuck you")
 
 
 
