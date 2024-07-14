@@ -37,4 +37,4 @@ amount_p2=driver.find_element(by="xpath", value="/html/body/div[1]/div/div[2]/ma
 amount_p2=amount_p2.text
 amount_p2=int(p2)
 
-23
+2332

@@ -16,5 +16,5 @@ def reverse_dict(dict):
 rev=reverse_dict(dict)
 
 print(rev.get(val))
-
+32
 32
