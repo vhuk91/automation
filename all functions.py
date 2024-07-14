@@ -17,4 +17,3 @@ rev=reverse_dict(dict)
 
 print(rev.get(val))
 
-print("fuck you")
